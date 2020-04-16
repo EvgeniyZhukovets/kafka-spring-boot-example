@@ -1,0 +1,7 @@
+kafka:
+  topic:
+    title: topic
+
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
